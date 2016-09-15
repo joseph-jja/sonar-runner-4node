@@ -1,0 +1,11 @@
+{
+  "name": "sonar-runner-4node",
+  "version": "1.0.0",
+  "description": "sonar runner as an npm",
+  "main": "index.js",
+  "scripts": {
+    "sonar-runner": "bin/sonar-runner"
+  },
+  "author": "",
+  "license": "ISC"
+}
