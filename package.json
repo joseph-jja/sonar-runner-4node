@@ -14,5 +14,12 @@
   "author": {
     "name": "Joe",
     "email": "josepha48@yahoo.com"
+  },
+  "bin": {
+     "sonar-runner": "bin/sonar-runner"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joseph-jja/sonar-runner-4node.git"
   }
 }
