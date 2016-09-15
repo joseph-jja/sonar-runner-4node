@@ -1,6 +1,6 @@
 {
   "name": "sonar-runner-4node",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "sonar runner as an npm",
   "main": "index.js",
   "scripts": {
